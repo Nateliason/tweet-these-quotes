@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document*/
+#headersection1 {
+	text-align: center;
+	font-size: 3em;
+	font-family: helvetica, arial, sans-serif;
+}
+
+#headersection2 {
+	text-align: center;
+	font-size: 2.5em;
+	font-family: helvetica, arial, sans-serif;
+}
+
+.quotes {
+	text-align: center;
+	font-size: 1.25em;
+	font-family: helvetica, arial, sans-serif;
+	font-style: italic;
+	width: 40%;
+	margin-left: 30%;
+	margin-right:30%;
+}
+
+#footer {
+	position: absolute;
+	width: 100%;
+	text-align: right; 
+	top: 0px;
+	right: 5px;
+	font-size: 1em;	
+	font-weight: bold;
+}
+
+a:link {
+	color:#000000;
+	text-decoration: none;
+	font-family: helvetica, arial, sans-serif;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:visited {
+	color:#000000;
+	text-decoration: none;
+}
