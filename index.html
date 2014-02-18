@@ -1,3 +1,11 @@
+<!--
+If you use these quotes for anything else, please keep the original author intact.
+If you think of any improvements, go ahead and make them and submit a pull request. When you do, add your name here to the list of contributors:
+
+Contributors:
+Nathaniel Eliason-->
+
+
 <!DOCTYPE html>
 <html lang = "en">
 <head>
@@ -5,8 +13,6 @@
 	<title>Tweet These Quotes</title>
 
 	<meta name="Description" content="Quotes are the most retweeted content on twitter. Here are some great ones to tweet!">
-
-	<a href="https://plus.google.com/+NathanielEliason?rel=author"></a>
 
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 	<link rel="icon" href="favicon.ico" type="image/x-icon" />
@@ -30,7 +36,7 @@
 			<!--<h1>Tweet These Quotes</h1>-->
 		</section>
 		<section id="headersection2">
-			<h3>Click Quotes. Get Retweets. Profit.<br><br></h3>
+			<h3>Click Quotes. Get Retweets. Grow Your Following.<br><br></h3>
 		</section>
 		
 	</header>
@@ -133,6 +139,7 @@
 				var quote = quotes[Math.floor(Math.random() * quotes.length)];
 				var quote2 = quotes[Math.floor(Math.random() * quotes.length)];
 				var quote3 = quotes[Math.floor(Math.random() * quotes.length)];
+				
 				document.getElementById("quote").innerHTML = 
 					'<p><a href="http://twitter.com/share?url=http://bit.ly/ttquotes&text=' + quote + '&related=nateliason" target="_blank">' + quote + '</a><br><br><br></p>';
 				document.getElementById("quote2").innerHTML = 
