@@ -2,7 +2,13 @@
 
 body {
 	font-family: helvetica, arial, sans-serif;
-	background-image: url(background.jpg);
+	background: url(background.jpg) no-repeat;
+	-moz-background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
 }
 
 /* CSS Document*/
