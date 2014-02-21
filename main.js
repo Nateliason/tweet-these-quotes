@@ -111,7 +111,7 @@ $(function(){
       break;
   }
 
-  $('#quote1').html('<p><a href="http://twitter.com/share?url=http://bit.ly/ttquotes&text=' + quote1 + '&related=nateliason" target="_blank">' + quote1 + '</a></p>');
-  $('#quote2').html('<p><a href="http://twitter.com/share?url=http://bit.ly/ttquotes&text=' + quote2 + '&related=nateliason" target="_blank">' + quote2 + '</a></p>');
-  $('#quote3').html('<p><a href="http://twitter.com/share?url=http://bit.ly/ttquotes&text=' + quote3 + '&related=nateliason" target="_blank">' + quote3 + '</a></p>');
+  $('#quote1').html('<p><a href="http://twitter.com/share?url=http://bit.ly/ttquotes&text=' + quote1 + '&related=nateliason" target="_blank">' + quote1 + '</a><br><br></p>');
+  $('#quote2').html('<p><a href="http://twitter.com/share?url=http://bit.ly/ttquotes&text=' + quote2 + '&related=nateliason" target="_blank">' + quote2 + '</a><br><br></p>');
+  $('#quote3').html('<p><a href="http://twitter.com/share?url=http://bit.ly/ttquotes&text=' + quote3 + '&related=nateliason" target="_blank">' + quote3 + '</a><br><br></p>');
 })
