@@ -80,7 +80,7 @@ $(function(){
       "'The best revenge is massive success.' –Frank Sinatra",
       "'There is only one way to avoid criticism: do nothing, say nothing, and be nothing.' –Aristotle",
       "'Go confidently in the direction of your dreams.  Live the life you have imagined.' –Henry David Thoreau",
-      "'We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.' –Plato",
+      "'We can easily forgive a child who is afraid of the dark; the tragedy of life is when men fear the light.' –Plato",
       "'If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on.' –Sheryl Sandberg",
       "'If the wind will not serve, take to the oars.' –Latin Proverb",
       "'A person who never made a mistake never tried anything new.' –Albert Einstein",
