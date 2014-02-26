@@ -2,8 +2,6 @@
 
 The code for the website <http://www.tweetthesequotes.com>
 
-Something I just put together because I was bored.
-
 ## Please note
 
 If you use these quotes for anything else, please keep the original author intact.
