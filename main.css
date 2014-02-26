@@ -58,6 +58,8 @@ a:visited {
 	margin-right: 45%;
 	font-family: helvetica, arial, sans-serif;
 	font-size: 1em;
+	font-style: italic;
+	position: absolute;
 }
 
 #shuffle:focus {
