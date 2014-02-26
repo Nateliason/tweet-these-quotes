@@ -49,3 +49,17 @@ a:visited {
 	color:#000000;
 	text-decoration: none;
 }
+
+#shuffle {
+	background: transparent;
+	border: none !important;
+	width: 10%;
+	margin-left: 45%;
+	margin-right: 45%;
+	font-family: helvetica, arial, sans-serif;
+	font-size: 1em;
+}
+
+#shuffle:focus {
+	outline: none;
+}

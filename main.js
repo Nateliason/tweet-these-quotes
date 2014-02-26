@@ -1,4 +1,4 @@
-$(function(){
+$(function getquotes(){
   var quotes, quote1, quote2, quote3;
 
   quotes = {
