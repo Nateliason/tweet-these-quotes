@@ -152,7 +152,7 @@ $(function getquotes(){
       "'Failure is the condiment that gives success its flavor.' -Truman Capote",
       "'Don't let what you cannot do interfere with what you can do.' -John R. Wooden",
       "'A real decision is measured by the fact that you've taken new action' -Tony Robbins",
-      "'One day you will wake up and there won't be any more time to do the things you've always wanted. Do it now.' -Paulo Coelho"
+      "'One day you will wake up and there won't be any more time to do the things you've always wanted. Do it now.' -Paulo Coelho",
       "'A year from now you will wish you had started today.' - Karen Lamb",
       "'Be the change you wish to see in the world. -Gandhi",
       "'When you're going through hell, keep going. -Winston Churchill",
